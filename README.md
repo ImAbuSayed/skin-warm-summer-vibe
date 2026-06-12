@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/skin-warm-summer-vibe/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Skin Warm Summer Vibe](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/skin-warm-summer-vibe/) |
+| **Get License** | [Get a Licensing Quote for Skin Warm Summer Vibe](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/skin-warm-summer-vibe/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Moonlight melting on the cabin floor
+> Your shadow dancing by the open door
+> A summer breeze pulling us close tonight
+> Losing ourselves in the fading light
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
