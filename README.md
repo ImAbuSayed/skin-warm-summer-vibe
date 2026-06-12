@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/skin-warm-summer-vibe/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Skin Warm Summer Vibe](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/skin-warm-summer-vibe/) |
+| **Get License** | [Obtain a Music License for Skin Warm Summer Vibe](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/skin-warm-summer-vibe/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `daedc433d8c10216ac4daa89c36f6a9934447e9ea4da56038b5dd3285493a61a` |
 | **Timestamp** | June 13, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
